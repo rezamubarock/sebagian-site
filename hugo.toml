@@ -1,0 +1,67 @@
+baseURL = 'https://sebagian.com/'
+languageCode = 'id'
+title = 'Sebagian - Tips Keuangan Pribadi'
+theme = 'Mainroad'
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = true
+
+[pagination]
+  pagerSize = 12
+
+[params]
+  subtitle = "Panduan Keuangan Terpercaya untuk Masyarakat Indonesia"
+  description = "Panduan lengkap keuangan pribadi, investasi, tabungan, dan cara mengatur uang dengan bijak untuk masyarakat Indonesia"
+  opengraph = true
+  schema = true
+  twitter_cards = false
+  readmore = true
+  authorbox = true
+  pager = true
+  post_meta = ["date", "categories", "translations"]
+  mainSections = ["posts"]
+  copyright = "\u00a9 sebagian.com. Hak cipta dilindungi."
+
+[params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  widgets = ["search", "recent", "categories", "taglist"]
+
+[params.widgets]
+  recent_num = 7
+  categories_counter = true
+  tags_counter = true
+
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+  author = 'authors'
+
+[menu]
+  [[menu.main]]
+    identifier = 'beranda'
+    name = 'Beranda'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'kategori'
+    name = 'Kategori'
+    url = '/categories/'
+    weight = 20
+  [[menu.main]]
+    identifier = 'tentang'
+    name = 'Tentang'
+    url = '/tentang/'
+    weight = 30
+  [[menu.main]]
+    identifier = 'kontak'
+    name = 'Kontak'
+    url = '/kontak/'
+    weight = 40
+
+[sitemap]
+  changefreq = 'weekly'
+  filename   = 'sitemap.xml'
+  priority   = 0.5
