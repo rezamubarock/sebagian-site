@@ -2,7 +2,7 @@
 title: "7 Rahasia Psikologi Keuangan yang Membuat Orang Kaya Tetap Kaya (dan Cara Menirunya)"
 date: 2025-06-08T13:26:52.197Z
 draft: false
-image: "images/7-rahasia-psikologi-keuangan-yang-membuat-orang-kaya-tetap-kaya-dan-cara-menirunya.png"
+thumbnail: "/images/7-rahasia-psikologi-keuangan-yang-membuat-orang-kaya-tetap-kaya-dan-cara-menirunya.png"
 tags: ["Keuangan Pribadi","Tips Investasi","Psikologi Uang","Manajemen Keuangan","Literasi Finansial"]
 ---
 

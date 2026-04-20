@@ -2,7 +2,7 @@
 title: "7 Strategi Rahasia Mengatur Gaji 5 Juta Agar Bisa Punya Tabungan Ratusan Juta"
 date: 2026-01-02T10:26:09.797Z
 draft: false
-image: "images/7-strategi-rahasia-mengatur-gaji-5-juta-agar-bisa-punya-tabungan-ratusan-juta.png"
+thumbnail: "/images/7-strategi-rahasia-mengatur-gaji-5-juta-agar-bisa-punya-tabungan-ratusan-juta.png"
 tags: ["Perencanaan Keuangan","Tips Menabung","Investasi Pemula","Keuangan Pribadi","Bebas Finansial"]
 ---
 

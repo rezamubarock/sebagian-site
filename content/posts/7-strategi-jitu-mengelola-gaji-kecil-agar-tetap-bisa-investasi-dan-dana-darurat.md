@@ -2,7 +2,7 @@
 title: "7 Strategi Jitu Mengelola Gaji Kecil Agar Tetap Bisa Investasi dan Dana Darurat"
 date: 2025-12-01T23:50:44.123Z
 draft: false
-image: "images/7-strategi-jitu-mengelola-gaji-kecil-agar-tetap-bisa-investasi-dan-dana-darurat.png"
+thumbnail: "/images/7-strategi-jitu-mengelola-gaji-kecil-agar-tetap-bisa-investasi-dan-dana-darurat.png"
 tags: ["Keuangan Pribadi","Tips Investasi","Manajemen Keuangan","Dana Darurat","Perencanaan Keuangan"]
 ---
 

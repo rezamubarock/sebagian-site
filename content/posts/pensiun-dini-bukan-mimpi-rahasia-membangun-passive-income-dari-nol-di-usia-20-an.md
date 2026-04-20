@@ -2,7 +2,7 @@
 title: "Pensiun Dini Bukan Mimpi: Rahasia Membangun Passive Income dari Nol di Usia 20-an"
 date: 2025-11-18T19:55:08.943Z
 draft: false
-image: "images/pensiun-dini-bukan-mimpi-rahasia-membangun-passive-income-dari-nol-di-usia-20-an.png"
+thumbnail: "/images/pensiun-dini-bukan-mimpi-rahasia-membangun-passive-income-dari-nol-di-usia-20-an.png"
 tags: ["keuangan","investasi","pensiun dini","passive income","perencanaan keuangan"]
 ---
 

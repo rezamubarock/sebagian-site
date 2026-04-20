@@ -2,7 +2,7 @@
 title: "7 Strategi Jitu Mengatur Keuangan di Usia 20-an Demi Kebebasan Finansial Sebelum 40 Tahun"
 date: 2025-08-08T22:52:42.000Z
 draft: false
-image: "images/7-strategi-jitu-mengatur-keuangan-di-usia-20-an-demi-kebebasan-finansial-sebelum-40-tahun.png"
+thumbnail: "/images/7-strategi-jitu-mengatur-keuangan-di-usia-20-an-demi-kebebasan-finansial-sebelum-40-tahun.png"
 tags: ["keuangan pribadi","investasi pemula","financial freedom","manajemen keuangan"]
 ---
 

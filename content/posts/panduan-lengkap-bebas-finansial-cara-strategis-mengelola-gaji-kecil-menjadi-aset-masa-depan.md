@@ -2,7 +2,7 @@
 title: "Panduan Lengkap Bebas Finansial: Cara Strategis Mengelola Gaji Kecil Menjadi Aset Masa Depan"
 date: 2025-03-24T12:12:14.030Z
 draft: false
-image: "images/panduan-lengkap-bebas-finansial-cara-strategis-mengelola-gaji-kecil-menjadi-aset-masa-depan.png"
+thumbnail: "/images/panduan-lengkap-bebas-finansial-cara-strategis-mengelola-gaji-kecil-menjadi-aset-masa-depan.png"
 tags: ["investasi","manajemen keuangan","tips hemat","bebas finansial","perencanaan keuangan"]
 ---
 

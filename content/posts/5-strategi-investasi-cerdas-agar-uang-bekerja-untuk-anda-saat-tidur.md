@@ -2,7 +2,7 @@
 title: "5 Strategi Investasi Cerdas Agar Uang Bekerja untuk Anda Saat Tidur"
 date: 2025-05-07T04:15:23.241Z
 draft: false
-image: "images/5-strategi-investasi-cerdas-agar-uang-bekerja-untuk-anda-saat-tidur.png"
+thumbnail: "/images/5-strategi-investasi-cerdas-agar-uang-bekerja-untuk-anda-saat-tidur.png"
 tags: ["Keuangan","Investasi","Passive Income","Tips Keuangan","Financial Freedom"]
 ---
 

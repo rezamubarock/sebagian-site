@@ -2,7 +2,7 @@
 title: "7 Strategi Rahasia Mengatur Gaji 5 Juta Agar Bisa Punya Tabungan 100 Juta dalam 3 Tahun"
 date: 2025-07-23T12:17:36.960Z
 draft: false
-image: "images/7-strategi-rahasia-mengatur-gaji-5-juta-agar-bisa-punya-tabungan-100-juta-dalam-3-tahun.png"
+thumbnail: "/images/7-strategi-rahasia-mengatur-gaji-5-juta-agar-bisa-punya-tabungan-100-juta-dalam-3-tahun.png"
 tags: ["Manajemen Keuangan","Tips Menabung","Investasi Pemula","Kebebasan Finansial","Perencanaan Keuangan"]
 ---
 

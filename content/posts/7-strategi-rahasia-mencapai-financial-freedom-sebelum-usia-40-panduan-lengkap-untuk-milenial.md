@@ -2,7 +2,7 @@
 title: "7 Strategi Rahasia Mencapai Financial Freedom Sebelum Usia 40: Panduan Lengkap untuk Milenial"
 date: 2025-08-29T06:44:05.455Z
 draft: false
-image: "images/7-strategi-rahasia-mencapai-financial-freedom-sebelum-usia-40-panduan-lengkap-untuk-milenial.png"
+thumbnail: "/images/7-strategi-rahasia-mencapai-financial-freedom-sebelum-usia-40-panduan-lengkap-untuk-milenial.png"
 tags: ["Keuangan Pribadi","Financial Freedom","Investasi","Tips Keuangan","Perencanaan Keuangan"]
 ---
 

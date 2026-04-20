@@ -2,7 +2,7 @@
 title: "7 Strategi Rahasia Membangun Kerajaan Passive Income dari Nol"
 date: 2025-03-17T15:30:02.259Z
 draft: false
-image: "images/7-strategi-rahasia-membangun-kerajaan-passive-income-dari-nol.png"
+thumbnail: "/images/7-strategi-rahasia-membangun-kerajaan-passive-income-dari-nol.png"
 tags: ["Passive Income","Investasi","Keuangan Pribadi","Tips Keuangan","Kebebasan Finansial"]
 ---
 

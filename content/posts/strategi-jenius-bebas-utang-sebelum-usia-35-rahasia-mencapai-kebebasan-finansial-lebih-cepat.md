@@ -2,7 +2,7 @@
 title: "Strategi Jenius Bebas Utang Sebelum Usia 35: Rahasia Mencapai Kebebasan Finansial Lebih Cepat"
 date: 2025-08-07T07:58:02.337Z
 draft: false
-image: "images/strategi-jenius-bebas-utang-sebelum-usia-35-rahasia-mencapai-kebebasan-finansial-lebih-cepat.png"
+thumbnail: "/images/strategi-jenius-bebas-utang-sebelum-usia-35-rahasia-mencapai-kebebasan-finansial-lebih-cepat.png"
 tags: ["Keuangan Pribadi","Bebas Utang","Financial Freedom","Tips Investasi","Perencanaan Keuangan"]
 ---
 

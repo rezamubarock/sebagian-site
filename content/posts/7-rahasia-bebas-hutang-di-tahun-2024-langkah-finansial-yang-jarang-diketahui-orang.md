@@ -2,7 +2,7 @@
 title: "7 Rahasia Bebas Hutang di Tahun 2024: Langkah Finansial yang Jarang Diketahui Orang"
 date: 2025-06-15T00:29:36.720Z
 draft: false
-image: "images/7-rahasia-bebas-hutang-di-tahun-2024-langkah-finansial-yang-jarang-diketahui-orang.png"
+thumbnail: "/images/7-rahasia-bebas-hutang-di-tahun-2024-langkah-finansial-yang-jarang-diketahui-orang.png"
 tags: ["Tips Keuangan","Manajemen Hutang","Perencanaan Keuangan","Bebas Finansial"]
 ---
 

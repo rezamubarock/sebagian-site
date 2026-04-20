@@ -2,7 +2,7 @@
 title: "7 Strategi Cerdas Kelola Gaji 5 Juta agar Bisa Investasi dan Dana Darurat Aman"
 date: 2025-09-27T11:27:54.696Z
 draft: false
-image: "images/7-strategi-cerdas-kelola-gaji-5-juta-agar-bisa-investasi-dan-dana-darurat-aman.png"
+thumbnail: "/images/7-strategi-cerdas-kelola-gaji-5-juta-agar-bisa-investasi-dan-dana-darurat-aman.png"
 tags: ["Keuangan Pribadi","Investasi Pemula","Tips Hemat","Manajemen Keuangan"]
 ---
 

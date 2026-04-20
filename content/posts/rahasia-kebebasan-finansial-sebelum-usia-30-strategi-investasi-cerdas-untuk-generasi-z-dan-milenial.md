@@ -2,7 +2,7 @@
 title: "Rahasia Kebebasan Finansial Sebelum Usia 30: Strategi Investasi Cerdas untuk Generasi Z dan Milenial"
 date: 2026-01-20T05:17:14.693Z
 draft: false
-image: "images/rahasia-kebebasan-finansial-sebelum-usia-30-strategi-investasi-cerdas-untuk-generasi-z-dan-milenial.png"
+thumbnail: "/images/rahasia-kebebasan-finansial-sebelum-usia-30-strategi-investasi-cerdas-untuk-generasi-z-dan-milenial.png"
 tags: ["Kebebasan Finansial","Investasi","Perencanaan Keuangan","Generasi Z","Tips Keuangan"]
 ---
 

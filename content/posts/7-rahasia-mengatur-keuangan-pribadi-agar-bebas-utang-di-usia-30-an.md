@@ -2,7 +2,7 @@
 title: "7 Rahasia Mengatur Keuangan Pribadi Agar Bebas Utang di Usia 30-an"
 date: 2025-11-22T05:42:46.732Z
 draft: false
-image: "images/7-rahasia-mengatur-keuangan-pribadi-agar-bebas-utang-di-usia-30-an.png"
+thumbnail: "/images/7-rahasia-mengatur-keuangan-pribadi-agar-bebas-utang-di-usia-30-an.png"
 tags: ["Keuangan Pribadi","Tips Hemat","Bebas Utang","Investasi","Perencanaan Keuangan"]
 ---
 

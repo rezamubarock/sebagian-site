@@ -2,7 +2,7 @@
 title: "Rahasia Mengelola Gaji 5 Juta: Strategi Cerdas Beli Rumah Sebelum Usia 30"
 date: 2025-04-26T18:01:24.615Z
 draft: false
-image: "images/rahasia-mengelola-gaji-5-juta-strategi-cerdas-beli-rumah-sebelum-usia-30.png"
+thumbnail: "/images/rahasia-mengelola-gaji-5-juta-strategi-cerdas-beli-rumah-sebelum-usia-30.png"
 tags: ["Keuangan Pribadi","Tips Investasi","Perencanaan Keuangan","Membeli Rumah","Gaya Hidup Hemat"]
 ---
 

@@ -2,7 +2,7 @@
 title: "7 Strategi Rahasia Mengatur Gaji 5 Juta Agar Bisa Punya Tabungan 100 Juta Pertama"
 date: 2026-03-18T10:14:05.490Z
 draft: false
-image: "images/7-strategi-rahasia-mengatur-gaji-5-juta-agar-bisa-punya-tabungan-100-juta-pertama.png"
+thumbnail: "/images/7-strategi-rahasia-mengatur-gaji-5-juta-agar-bisa-punya-tabungan-100-juta-pertama.png"
 tags: ["Keuangan Pribadi","Tips Menabung","Investasi Pemula","Manajemen Keuangan","Gaya Hidup Hemat"]
 ---
 

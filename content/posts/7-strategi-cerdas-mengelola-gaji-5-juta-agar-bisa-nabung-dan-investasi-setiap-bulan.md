@@ -2,7 +2,7 @@
 title: "7 Strategi Cerdas Mengelola Gaji 5 Juta agar Bisa Nabung dan Investasi Setiap Bulan"
 date: 2025-10-11T08:22:25.135Z
 draft: false
-image: "images/7-strategi-cerdas-mengelola-gaji-5-juta-agar-bisa-nabung-dan-investasi-setiap-bulan.png"
+thumbnail: "/images/7-strategi-cerdas-mengelola-gaji-5-juta-agar-bisa-nabung-dan-investasi-setiap-bulan.png"
 tags: ["keuangan pribadi","tips menabung","investasi pemula","manajemen gaji","perencanaan keuangan"]
 ---
 

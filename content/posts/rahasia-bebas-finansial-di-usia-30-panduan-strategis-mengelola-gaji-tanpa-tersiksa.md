@@ -2,7 +2,7 @@
 title: "Rahasia Bebas Finansial di Usia 30: Panduan Strategis Mengelola Gaji Tanpa Tersiksa"
 date: 2025-11-27T02:04:52.631Z
 draft: false
-image: "images/rahasia-bebas-finansial-di-usia-30-panduan-strategis-mengelola-gaji-tanpa-tersiksa.png"
+thumbnail: "/images/rahasia-bebas-finansial-di-usia-30-panduan-strategis-mengelola-gaji-tanpa-tersiksa.png"
 tags: ["keuangan pribadi","perencanaan keuangan","investasi","tips hemat","bebas finansial"]
 ---
 

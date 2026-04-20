@@ -2,8 +2,9 @@
 title: "Strategi Bebas Finansial: Cara Mengelola Gaji 5 Juta Agar Bisa Menabung dan Investasi Secara Maksimal"
 date: 2026-02-22T13:39:40.583Z
 draft: false
-image: "images/strategi-bebas-finansial-cara-mengelola-gaji-5-juta-agar-bisa-menabung-dan-investasi-secara-maksimal.png"
-tags: undefined
+thumbnail: "/images/strategi-bebas-finansial-cara-mengelola-gaji-5-juta-agar-bisa-menabung-dan-investasi-secara-maksimal.png"
+tags:
+  - "keuangan"
 ---
 
 # Strategi Bebas Finansial: Cara Mengelola Gaji 5 Juta Agar Bisa Menabung dan Investasi Secara Maksimal

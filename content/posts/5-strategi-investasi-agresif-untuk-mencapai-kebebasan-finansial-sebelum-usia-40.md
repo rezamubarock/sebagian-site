@@ -2,7 +2,7 @@
 title: "5 Strategi Investasi Agresif untuk Mencapai Kebebasan Finansial Sebelum Usia 40"
 date: 2025-11-22T17:17:45.388Z
 draft: false
-image: "images/5-strategi-investasi-agresif-untuk-mencapai-kebebasan-finansial-sebelum-usia-40.png"
+thumbnail: "/images/5-strategi-investasi-agresif-untuk-mencapai-kebebasan-finansial-sebelum-usia-40.png"
 tags: ["Keuangan","Investasi","Financial Freedom","Perencanaan Keuangan"]
 ---
 

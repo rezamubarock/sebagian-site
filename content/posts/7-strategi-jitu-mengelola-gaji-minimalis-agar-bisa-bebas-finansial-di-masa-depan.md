@@ -2,7 +2,7 @@
 title: "7 Strategi Jitu Mengelola Gaji Minimalis Agar Bisa Bebas Finansial di Masa Depan"
 date: 2025-05-07T04:21:49.083Z
 draft: false
-image: "images/7-strategi-jitu-mengelola-gaji-minimalis-agar-bisa-bebas-finansial-di-masa-depan.png"
+thumbnail: "/images/7-strategi-jitu-mengelola-gaji-minimalis-agar-bisa-bebas-finansial-di-masa-depan.png"
 tags: ["Keuangan Pribadi","Tips Investasi","Manajemen Keuangan","Kebebasan Finansial"]
 ---
 

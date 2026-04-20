@@ -2,7 +2,7 @@
 title: "7 Strategi Investasi Cerdas untuk Membangun Kebebasan Finansial Sebelum Usia 40 Tahun"
 date: 2025-03-30T16:44:22.031Z
 draft: false
-image: "images/7-strategi-investasi-cerdas-untuk-membangun-kebebasan-finansial-sebelum-usia-40-tahun.png"
+thumbnail: "/images/7-strategi-investasi-cerdas-untuk-membangun-kebebasan-finansial-sebelum-usia-40-tahun.png"
 tags: ["Investasi","Keuangan Pribadi","Kebebasan Finansial","Tips Keuangan","Perencanaan Keuangan"]
 ---
 

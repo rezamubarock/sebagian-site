@@ -2,7 +2,7 @@
 title: "7 Strategi Cerdas Mengatur Gaji 5 Juta Agar Bisa Pensiun Dini dan Bebas Hutang"
 date: 2025-06-26T04:55:49.425Z
 draft: false
-image: "images/7-strategi-cerdas-mengatur-gaji-5-juta-agar-bisa-pensiun-dini-dan-bebas-hutang.png"
+thumbnail: "/images/7-strategi-cerdas-mengatur-gaji-5-juta-agar-bisa-pensiun-dini-dan-bebas-hutang.png"
 tags: ["Keuangan Pribadi","Tips Investasi","Bebas Finansial","Manajemen Gaji"]
 ---
 

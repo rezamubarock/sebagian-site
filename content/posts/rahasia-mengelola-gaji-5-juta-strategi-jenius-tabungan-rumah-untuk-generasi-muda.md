@@ -2,7 +2,7 @@
 title: "Rahasia Mengelola Gaji 5 Juta: Strategi Jenius Tabungan Rumah untuk Generasi Muda"
 date: 2025-10-07T22:27:54.091Z
 draft: false
-image: "images/rahasia-mengelola-gaji-5-juta-strategi-jenius-tabungan-rumah-untuk-generasi-muda.png"
+thumbnail: "/images/rahasia-mengelola-gaji-5-juta-strategi-jenius-tabungan-rumah-untuk-generasi-muda.png"
 tags: ["Manajemen Keuangan","Tips Menabung","Investasi Pemula","Perencanaan Keuangan","Beli Rumah"]
 ---
 

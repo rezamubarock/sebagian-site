@@ -2,7 +2,7 @@
 title: "7 Rahasia Psikologi Uang yang Membuat Anda Lebih Cepat Kaya Tanpa Tertekan"
 date: 2025-03-21T00:12:33.496Z
 draft: false
-image: "images/7-rahasia-psikologi-uang-yang-membuat-anda-lebih-cepat-kaya-tanpa-tertekan.png"
+thumbnail: "/images/7-rahasia-psikologi-uang-yang-membuat-anda-lebih-cepat-kaya-tanpa-tertekan.png"
 tags: ["Keuangan Pribadi","Tips Menabung","Psikologi Uang","Investasi Cerdas","Manajemen Keuangan"]
 ---
 

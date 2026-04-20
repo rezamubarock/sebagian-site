@@ -2,7 +2,7 @@
 title: "7 Rahasia Mengatur Gaji 5 Juta Agar Bisa Punya Tabungan dan Investasi Tiap Bulan"
 date: 2025-11-02T01:05:05.852Z
 draft: false
-image: "images/7-rahasia-mengatur-gaji-5-juta-agar-bisa-punya-tabungan-dan-investasi-tiap-bulan.png"
+thumbnail: "/images/7-rahasia-mengatur-gaji-5-juta-agar-bisa-punya-tabungan-dan-investasi-tiap-bulan.png"
 tags: ["Keuangan Pribadi","Tips Investasi","Perencanaan Keuangan","Literasi Finansial","Gaya Hidup Hemat"]
 ---
 

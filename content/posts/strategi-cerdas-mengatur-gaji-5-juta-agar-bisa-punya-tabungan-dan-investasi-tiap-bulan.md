@@ -2,8 +2,9 @@
 title: "Strategi Cerdas Mengatur Gaji 5 Juta Agar Bisa Punya Tabungan dan Investasi Tiap Bulan"
 date: 2025-07-25T20:19:56.397Z
 draft: false
-image: "images/strategi-cerdas-mengatur-gaji-5-juta-agar-bisa-punya-tabungan-dan-investasi-tiap-bulan.png"
-tags: undefined
+thumbnail: "/images/strategi-cerdas-mengatur-gaji-5-juta-agar-bisa-punya-tabungan-dan-investasi-tiap-bulan.png"
+tags:
+  - "keuangan"
 ---
 
 # Strategi Cerdas Mengatur Gaji 5 Juta Agar Bisa Punya Tabungan dan Investasi Tiap Bulan

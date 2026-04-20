@@ -2,7 +2,7 @@
 title: "7 Rahasia Mengelola Gaji 5 Juta Agar Bisa Punya Tabungan Ratusan Juta di Usia 30"
 date: 2026-02-24T13:27:54.286Z
 draft: false
-image: "images/7-rahasia-mengelola-gaji-5-juta-agar-bisa-punya-tabungan-ratusan-juta-di-usia-30.png"
+thumbnail: "/images/7-rahasia-mengelola-gaji-5-juta-agar-bisa-punya-tabungan-ratusan-juta-di-usia-30.png"
 tags: ["Keuangan Pribadi","Tips Menabung","Investasi Pemula","Perencanaan Keuangan","Bebas Finansial"]
 ---
 

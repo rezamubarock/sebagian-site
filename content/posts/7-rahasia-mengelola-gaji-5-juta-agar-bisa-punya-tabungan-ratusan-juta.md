@@ -2,7 +2,7 @@
 title: "7 Rahasia Mengelola Gaji 5 Juta Agar Bisa Punya Tabungan Ratusan Juta"
 date: 2025-08-03T22:51:15.888Z
 draft: false
-image: "images/7-rahasia-mengelola-gaji-5-juta-agar-bisa-punya-tabungan-ratusan-juta.png"
+thumbnail: "/images/7-rahasia-mengelola-gaji-5-juta-agar-bisa-punya-tabungan-ratusan-juta.png"
 tags: ["Perencanaan Keuangan","Tips Menabung","Manajemen Gaji","Finansial Freedom","Investasi Pemula"]
 ---
 

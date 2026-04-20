@@ -2,7 +2,7 @@
 title: "Cara Cerdas Atur Gaji 5 Juta: Trik Rahasia Capai Tabungan 100 Juta Pertama"
 date: 2026-02-04T07:26:01.368Z
 draft: false
-image: "images/cara-cerdas-atur-gaji-5-juta-trik-rahasia-capai-tabungan-100-juta-pertama.png"
+thumbnail: "/images/cara-cerdas-atur-gaji-5-juta-trik-rahasia-capai-tabungan-100-juta-pertama.png"
 tags: ["Keuangan Pribadi","Tips Menabung","Investasi Pemula","Financial Freedom"]
 ---
 

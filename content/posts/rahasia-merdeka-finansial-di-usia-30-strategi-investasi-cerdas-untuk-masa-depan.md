@@ -2,7 +2,7 @@
 title: "Rahasia Merdeka Finansial di Usia 30: Strategi Investasi Cerdas untuk Masa Depan"
 date: 2025-10-29T14:10:55.894Z
 draft: false
-image: "images/rahasia-merdeka-finansial-di-usia-30-strategi-investasi-cerdas-untuk-masa-depan.png"
+thumbnail: "/images/rahasia-merdeka-finansial-di-usia-30-strategi-investasi-cerdas-untuk-masa-depan.png"
 tags: ["investasi","keuangan pribadi","kebebasan finansial","perencanaan keuangan"]
 ---
 

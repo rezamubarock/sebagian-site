@@ -2,7 +2,7 @@
 title: "Strategi Rahasia Mengelola Gaji 5 Juta: Bisa Nabung, Investasi, dan Liburan Setiap Tahun"
 date: 2026-03-17T20:20:54.817Z
 draft: false
-image: "images/strategi-rahasia-mengelola-gaji-5-juta-bisa-nabung-investasi-dan-liburan-setiap-tahun.png"
+thumbnail: "/images/strategi-rahasia-mengelola-gaji-5-juta-bisa-nabung-investasi-dan-liburan-setiap-tahun.png"
 tags: ["Keuangan Pribadi","Tips Investasi","Perencanaan Keuangan","Gaya Hidup Hemat"]
 ---
 

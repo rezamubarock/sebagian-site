@@ -2,7 +2,7 @@
 title: "Strategi Bebas Hutang: Cara Cerdas Keluar dari Lingkaran Pinjol dalam 30 Hari"
 date: 2025-12-16T18:16:30.846Z
 draft: false
-image: "images/strategi-bebas-hutang-cara-cerdas-keluar-dari-lingkaran-pinjol-dalam-30-hari.png"
+thumbnail: "/images/strategi-bebas-hutang-cara-cerdas-keluar-dari-lingkaran-pinjol-dalam-30-hari.png"
 tags: ["Keuangan","Manajemen Hutang","Pinjaman Online","Tips Finansial","Literasi Keuangan"]
 ---
 

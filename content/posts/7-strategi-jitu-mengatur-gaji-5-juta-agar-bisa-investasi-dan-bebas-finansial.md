@@ -2,7 +2,7 @@
 title: "7 Strategi Jitu Mengatur Gaji 5 Juta agar Bisa Investasi dan Bebas Finansial"
 date: 2025-03-09T08:58:41.302Z
 draft: false
-image: "images/7-strategi-jitu-mengatur-gaji-5-juta-agar-bisa-investasi-dan-bebas-finansial.png"
+thumbnail: "/images/7-strategi-jitu-mengatur-gaji-5-juta-agar-bisa-investasi-dan-bebas-finansial.png"
 tags: ["Tips Keuangan","Investasi","Perencanaan Keuangan","Gaya Hidup Hemat","Kebebasan Finansial"]
 ---
 

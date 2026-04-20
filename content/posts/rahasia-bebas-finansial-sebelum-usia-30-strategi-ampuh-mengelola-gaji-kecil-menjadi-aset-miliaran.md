@@ -2,7 +2,7 @@
 title: "Rahasia Bebas Finansial Sebelum Usia 30: Strategi Ampuh Mengelola Gaji Kecil Menjadi Aset Miliaran"
 date: 2026-01-19T12:20:01.133Z
 draft: false
-image: "images/rahasia-bebas-finansial-sebelum-usia-30-strategi-ampuh-mengelola-gaji-kecil-menjadi-aset-miliaran.png"
+thumbnail: "/images/rahasia-bebas-finansial-sebelum-usia-30-strategi-ampuh-mengelola-gaji-kecil-menjadi-aset-miliaran.png"
 tags: ["Keuangan","Investasi","Financial Freedom","Tips Menabung","Manajemen Uang"]
 ---
 

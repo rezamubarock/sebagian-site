@@ -2,7 +2,7 @@
 title: "Rahasia Kebebasan Finansial: Cara Cerdas Mengelola Gaji Kecil Agar Tetap Bisa Investasi"
 date: 2026-02-16T15:49:42.744Z
 draft: false
-image: "images/rahasia-kebebasan-finansial-cara-cerdas-mengelola-gaji-kecil-agar-tetap-bisa-investasi.png"
+thumbnail: "/images/rahasia-kebebasan-finansial-cara-cerdas-mengelola-gaji-kecil-agar-tetap-bisa-investasi.png"
 tags: ["Keuangan Pribadi","Investasi","Tips Menabung","Financial Freedom","Manajemen Keuangan"]
 ---
 

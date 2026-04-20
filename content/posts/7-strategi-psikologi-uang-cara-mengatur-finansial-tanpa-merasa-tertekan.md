@@ -2,7 +2,7 @@
 title: "7 Strategi Psikologi Uang: Cara Mengatur Finansial Tanpa Merasa Tertekan"
 date: 2025-10-02T21:10:44.516Z
 draft: false
-image: "images/7-strategi-psikologi-uang-cara-mengatur-finansial-tanpa-merasa-tertekan.png"
+thumbnail: "/images/7-strategi-psikologi-uang-cara-mengatur-finansial-tanpa-merasa-tertekan.png"
 tags: ["Keuangan Pribadi","Tips Investasi","Psikologi Uang","Financial Freedom","Manajemen Keuangan"]
 ---
 

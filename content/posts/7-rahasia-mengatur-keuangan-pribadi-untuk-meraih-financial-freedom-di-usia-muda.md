@@ -2,7 +2,7 @@
 title: "7 Rahasia Mengatur Keuangan Pribadi untuk Meraih Financial Freedom di Usia Muda"
 date: 2026-03-24T08:23:58.820Z
 draft: false
-image: "images/7-rahasia-mengatur-keuangan-pribadi-untuk-meraih-financial-freedom-di-usia-muda.png"
+thumbnail: "/images/7-rahasia-mengatur-keuangan-pribadi-untuk-meraih-financial-freedom-di-usia-muda.png"
 tags: ["Keuangan","Investasi","Financial Freedom","Tips Menabung"]
 ---
 

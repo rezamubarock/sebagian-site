@@ -2,7 +2,7 @@
 title: "Rahasia Membeli Rumah Sebelum Usia 30: Strategi Keuangan yang Jarang Diungkap"
 date: 2025-12-03T14:58:50.865Z
 draft: false
-image: "images/rahasia-membeli-rumah-sebelum-usia-30-strategi-keuangan-yang-jarang-diungkap.png"
+thumbnail: "/images/rahasia-membeli-rumah-sebelum-usia-30-strategi-keuangan-yang-jarang-diungkap.png"
 tags: ["Keuangan Pribadi","Investasi Properti","Tips Menabung","Perencanaan Keuangan","Milenial"]
 ---
 

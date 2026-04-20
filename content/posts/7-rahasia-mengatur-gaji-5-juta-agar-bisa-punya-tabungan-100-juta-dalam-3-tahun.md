@@ -2,7 +2,7 @@
 title: "7 Rahasia Mengatur Gaji 5 Juta Agar Bisa Punya Tabungan 100 Juta dalam 3 Tahun"
 date: 2026-02-15T15:17:47.296Z
 draft: false
-image: "images/7-rahasia-mengatur-gaji-5-juta-agar-bisa-punya-tabungan-100-juta-dalam-3-tahun.png"
+thumbnail: "/images/7-rahasia-mengatur-gaji-5-juta-agar-bisa-punya-tabungan-100-juta-dalam-3-tahun.png"
 tags: ["Keuangan Pribadi","Tips Menabung","Investasi","Manajemen Keuangan","Financial Freedom"]
 ---
 

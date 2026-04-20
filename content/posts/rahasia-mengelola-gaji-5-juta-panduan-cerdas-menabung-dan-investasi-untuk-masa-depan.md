@@ -2,7 +2,7 @@
 title: "Rahasia Mengelola Gaji 5 Juta: Panduan Cerdas Menabung dan Investasi untuk Masa Depan"
 date: 2025-09-25T12:15:34.436Z
 draft: false
-image: "images/rahasia-mengelola-gaji-5-juta-panduan-cerdas-menabung-dan-investasi-untuk-masa-depan.png"
+thumbnail: "/images/rahasia-mengelola-gaji-5-juta-panduan-cerdas-menabung-dan-investasi-untuk-masa-depan.png"
 tags: ["Keuangan Pribadi","Tips Menabung","Investasi Pemula","Manajemen Gaji"]
 ---
 

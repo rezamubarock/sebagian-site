@@ -2,7 +2,7 @@
 title: "Rahasia Bebas Finansial Sebelum Usia 30: Strategi Alokasi Gaji yang Jarang Diketahui"
 date: 2025-11-05T18:13:38.340Z
 draft: false
-image: "images/rahasia-bebas-finansial-sebelum-usia-30-strategi-alokasi-gaji-yang-jarang-diketahui.png"
+thumbnail: "/images/rahasia-bebas-finansial-sebelum-usia-30-strategi-alokasi-gaji-yang-jarang-diketahui.png"
 tags: ["Keuangan Pribadi","Bebas Finansial","Investasi","Manajemen Uang"]
 ---
 

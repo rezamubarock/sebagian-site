@@ -2,7 +2,7 @@
 title: "Strategi Rahasia Mengelola Gaji Kecil Agar Bisa Investasi dan Bebas Finansial"
 date: 2026-04-10T13:56:19.557Z
 draft: false
-image: "images/strategi-rahasia-mengelola-gaji-kecil-agar-bisa-investasi-dan-bebas-finansial.png"
+thumbnail: "/images/strategi-rahasia-mengelola-gaji-kecil-agar-bisa-investasi-dan-bebas-finansial.png"
 tags: ["Keuangan Pribadi","Investasi","Tips Menabung","Bebas Finansial","Manajemen Keuangan"]
 ---
 

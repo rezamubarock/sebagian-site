@@ -2,7 +2,7 @@
 title: "7 Strategi Rahasia Mencapai Kebebasan Finansial Sebelum Usia 30 Tahun"
 date: 2025-06-21T12:28:26.952Z
 draft: false
-image: "images/7-strategi-rahasia-mencapai-kebebasan-finansial-sebelum-usia-30-tahun.png"
+thumbnail: "/images/7-strategi-rahasia-mencapai-kebebasan-finansial-sebelum-usia-30-tahun.png"
 tags: ["Keuangan Pribadi","Investasi","Financial Freedom","Tips Menabung"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Trik Psikologi Keuangan: Mengapa Kita Sulit Menabung dan Cara Mengatasinya"
 date: 2025-06-20T11:48:56.140Z
 draft: false
-image: "images/trik-psikologi-keuangan-mengapa-kita-sulit-menabung-dan-cara-mengatasinya.png"
+thumbnail: "/images/trik-psikologi-keuangan-mengapa-kita-sulit-menabung-dan-cara-mengatasinya.png"
 tags: ["keuangan","tips menabung","psikologi keuangan","financial freedom","perencanaan keuangan"]
 ---
 

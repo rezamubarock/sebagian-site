@@ -2,7 +2,7 @@
 title: "7 Strategi Rahasia Mengatur Gaji 5 Juta Agar Bisa Beli Rumah dalam 5 Tahun"
 date: 2025-05-20T07:11:04.437Z
 draft: false
-image: "images/7-strategi-rahasia-mengatur-gaji-5-juta-agar-bisa-beli-rumah-dalam-5-tahun.png"
+thumbnail: "/images/7-strategi-rahasia-mengatur-gaji-5-juta-agar-bisa-beli-rumah-dalam-5-tahun.png"
 tags: ["Perencanaan Keuangan","Investasi Properti","Tips Menabung","Keuangan Pribadi"]
 ---
 

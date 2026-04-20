@@ -2,7 +2,7 @@
 title: "Rahasia Mengelola Gaji 5 Juta: Cara Cerdas Punya Rumah di Usia Muda"
 date: 2025-05-27T20:40:20.017Z
 draft: false
-image: "images/rahasia-mengelola-gaji-5-juta-cara-cerdas-punya-rumah-di-usia-muda.png"
+thumbnail: "/images/rahasia-mengelola-gaji-5-juta-cara-cerdas-punya-rumah-di-usia-muda.png"
 tags: ["Keuangan Pribadi","Manajemen Gaji","Investasi Properti","Perencanaan Keuangan","Masa Depan"]
 ---
 

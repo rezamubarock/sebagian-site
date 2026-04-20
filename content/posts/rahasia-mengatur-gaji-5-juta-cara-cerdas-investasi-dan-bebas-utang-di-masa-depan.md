@@ -2,7 +2,7 @@
 title: "Rahasia Mengatur Gaji 5 Juta: Cara Cerdas Investasi dan Bebas Utang di Masa Depan"
 date: 2026-04-17T09:14:44.069Z
 draft: false
-image: "images/rahasia-mengatur-gaji-5-juta-cara-cerdas-investasi-dan-bebas-utang-di-masa-depan.png"
+thumbnail: "/images/rahasia-mengatur-gaji-5-juta-cara-cerdas-investasi-dan-bebas-utang-di-masa-depan.png"
 tags: ["keuangan pribadi","tips finansial","investasi pemula","manajemen gaji"]
 ---
 

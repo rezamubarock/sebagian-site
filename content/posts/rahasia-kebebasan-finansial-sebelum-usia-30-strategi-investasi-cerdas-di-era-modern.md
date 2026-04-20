@@ -2,7 +2,7 @@
 title: "Rahasia Kebebasan Finansial Sebelum Usia 30: Strategi Investasi Cerdas di Era Modern"
 date: 2025-05-18T20:17:42.383Z
 draft: false
-image: "images/rahasia-kebebasan-finansial-sebelum-usia-30-strategi-investasi-cerdas-di-era-modern.png"
+thumbnail: "/images/rahasia-kebebasan-finansial-sebelum-usia-30-strategi-investasi-cerdas-di-era-modern.png"
 tags: ["Keuangan","Investasi","Financial Freedom","Perencanaan Keuangan","Strategi Cerdas"]
 ---
 

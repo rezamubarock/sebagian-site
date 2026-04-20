@@ -2,7 +2,7 @@
 title: "Strategi 'Snowball Effect': Cara Cerdas Melunasi Hutang dan Membangun Kekayaan di Tahun 2024"
 date: 2026-01-07T14:46:19.332Z
 draft: false
-image: "images/strategi-snowball-effect-cara-cerdas-melunasi-hutang-dan-membangun-kekayaan-di-tahun-2024.png"
+thumbnail: "/images/strategi-snowball-effect-cara-cerdas-melunasi-hutang-dan-membangun-kekayaan-di-tahun-2024.png"
 tags: ["Keuangan Pribadi","Manajemen Hutang","Tips Investasi","Perencanaan Keuangan"]
 ---
 

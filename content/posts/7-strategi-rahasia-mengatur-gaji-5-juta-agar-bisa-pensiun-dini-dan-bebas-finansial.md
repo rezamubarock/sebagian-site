@@ -2,7 +2,7 @@
 title: "7 Strategi Rahasia Mengatur Gaji 5 Juta Agar Bisa Pensiun Dini dan Bebas Finansial"
 date: 2025-05-05T16:31:32.043Z
 draft: false
-image: "images/7-strategi-rahasia-mengatur-gaji-5-juta-agar-bisa-pensiun-dini-dan-bebas-finansial.png"
+thumbnail: "/images/7-strategi-rahasia-mengatur-gaji-5-juta-agar-bisa-pensiun-dini-dan-bebas-finansial.png"
 tags: ["Tips Keuangan","Manajemen Gaji","Investasi","Financial Freedom","Pensiun Dini"]
 ---
 

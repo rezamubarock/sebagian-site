@@ -2,7 +2,7 @@
 title: "Strategi Silent Wealth: Cara Mengumpulkan 1 Miliar Pertama Tanpa Terlihat Kaya"
 date: 2025-12-14T05:05:16.600Z
 draft: false
-image: "images/strategi-silent-wealth-cara-mengumpulkan-1-miliar-pertama-tanpa-terlihat-kaya.png"
+thumbnail: "/images/strategi-silent-wealth-cara-mengumpulkan-1-miliar-pertama-tanpa-terlihat-kaya.png"
 tags: ["Perencanaan Keuangan","Investasi","Bebas Finansial","Manajemen Uang"]
 ---
 

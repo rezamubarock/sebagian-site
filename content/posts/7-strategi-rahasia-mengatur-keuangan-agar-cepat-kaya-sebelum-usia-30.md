@@ -2,7 +2,7 @@
 title: "7 Strategi Rahasia Mengatur Keuangan Agar Cepat Kaya Sebelum Usia 30"
 date: 2026-03-22T10:56:06.417Z
 draft: false
-image: "images/7-strategi-rahasia-mengatur-keuangan-agar-cepat-kaya-sebelum-usia-30.png"
+thumbnail: "/images/7-strategi-rahasia-mengatur-keuangan-agar-cepat-kaya-sebelum-usia-30.png"
 tags: ["Keuangan Pribadi","Tips Investasi","Kebebasan Finansial","Manajemen Uang","Perencanaan Keuangan"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Rahasia Bebas Finansial di Usia 30: Panduan Strategis Mengelola Kekayaan dari Nol"
 date: 2026-02-08T15:34:04.220Z
 draft: false
-image: "images/rahasia-bebas-finansial-di-usia-30-panduan-strategis-mengelola-kekayaan-dari-nol.png"
+thumbnail: "/images/rahasia-bebas-finansial-di-usia-30-panduan-strategis-mengelola-kekayaan-dari-nol.png"
 tags: ["Financial Freedom","Investasi","Perencanaan Keuangan","Manajemen Kekayaan","Tips Keuangan"]
 ---
 

@@ -2,7 +2,7 @@
 title: "7 Strategi Rahasia Mengatur Keuangan untuk Kebebasan Finansial Sebelum Usia 40"
 date: 2026-01-14T06:37:56.285Z
 draft: false
-image: "images/7-strategi-rahasia-mengatur-keuangan-untuk-kebebasan-finansial-sebelum-usia-40.png"
+thumbnail: "/images/7-strategi-rahasia-mengatur-keuangan-untuk-kebebasan-finansial-sebelum-usia-40.png"
 tags: ["Keuangan Pribadi","Investasi","Financial Freedom","Tips Keuangan","Manajemen Aset"]
 ---
 

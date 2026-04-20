@@ -2,8 +2,9 @@
 title: "7 Kebiasaan Kecil yang Diam-diam Menghancurkan Tabungan Anda Tanpa Disadari"
 date: 2025-08-25T12:17:52.980Z
 draft: false
-image: "images/7-kebiasaan-kecil-yang-diam-diam-menghancurkan-tabungan-anda-tanpa-disadari.png"
-tags: undefined
+thumbnail: "/images/7-kebiasaan-kecil-yang-diam-diam-menghancurkan-tabungan-anda-tanpa-disadari.png"
+tags:
+  - "keuangan"
 ---
 
 # 7 Kebiasaan Kecil yang Diam-diam Menghancurkan Tabungan Anda Tanpa Disadari

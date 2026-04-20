@@ -2,8 +2,9 @@
 title: "Strategi Jitu Mengelola Gaji 5 Juta Agar Bisa Investasi dan Merdeka Finansial Sebelum Usia 35 Tahun"
 date: 2025-08-28T13:49:52.227Z
 draft: false
-image: "images/strategi-jitu-mengelola-gaji-5-juta-agar-bisa-investasi-dan-merdeka-finansial-sebelum-usia-35-tahun.png"
-tags: undefined
+thumbnail: "/images/strategi-jitu-mengelola-gaji-5-juta-agar-bisa-investasi-dan-merdeka-finansial-sebelum-usia-35-tahun.png"
+tags:
+  - "keuangan"
 ---
 
 # Strategi Jitu Mengelola Gaji 5 Juta Agar Bisa Investasi dan Merdeka Finansial Sebelum Usia 35 Tahun

@@ -2,7 +2,7 @@
 title: "7 Rahasia Mengatur Keuangan di Usia 20-an Agar Pensiun Kaya Raya"
 date: 2025-06-09T19:57:43.892Z
 draft: false
-image: "images/7-rahasia-mengatur-keuangan-di-usia-20-an-agar-pensiun-kaya-raya.png"
+thumbnail: "/images/7-rahasia-mengatur-keuangan-di-usia-20-an-agar-pensiun-kaya-raya.png"
 tags: ["Keuangan","Investasi","Tips Menabung","Perencanaan Keuangan","Masa Depan"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Rahasia Bebas Finansial di Usia 30: Strategi Investasi Agresif untuk Pemula"
 date: 2026-02-14T05:24:53.175Z
 draft: false
-image: "images/rahasia-bebas-finansial-di-usia-30-strategi-investasi-agresif-untuk-pemula.png"
+thumbnail: "/images/rahasia-bebas-finansial-di-usia-30-strategi-investasi-agresif-untuk-pemula.png"
 tags: ["keuangan","investasi","kebebasan finansial","perencanaan keuangan","tips saham"]
 ---
 

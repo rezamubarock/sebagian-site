@@ -2,7 +2,7 @@
 title: "Rahasia Membangun Passive Income di Tahun 2024: Panduan Lengkap Menuju Kebebasan Finansial"
 date: 2025-09-01T08:55:31.673Z
 draft: false
-image: "images/rahasia-membangun-passive-income-di-tahun-2024-panduan-lengkap-menuju-kebebasan-finansial.png"
+thumbnail: "/images/rahasia-membangun-passive-income-di-tahun-2024-panduan-lengkap-menuju-kebebasan-finansial.png"
 tags: ["Investasi","Keuangan Pribadi","Passive Income","Kebebasan Finansial","Tips Keuangan"]
 ---
 

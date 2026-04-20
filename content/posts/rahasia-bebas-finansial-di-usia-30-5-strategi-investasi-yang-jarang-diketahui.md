@@ -2,7 +2,7 @@
 title: "Rahasia Bebas Finansial di Usia 30: 5 Strategi Investasi yang Jarang Diketahui"
 date: 2025-10-20T21:47:08.829Z
 draft: false
-image: "images/rahasia-bebas-finansial-di-usia-30-5-strategi-investasi-yang-jarang-diketahui.png"
+thumbnail: "/images/rahasia-bebas-finansial-di-usia-30-5-strategi-investasi-yang-jarang-diketahui.png"
 tags: ["Keuangan","Investasi","Bebas Finansial","Strategi Keuangan","Tips Menabung"]
 ---
 

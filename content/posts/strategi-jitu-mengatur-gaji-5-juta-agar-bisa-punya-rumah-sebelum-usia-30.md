@@ -2,7 +2,7 @@
 title: "Strategi Jitu Mengatur Gaji 5 Juta Agar Bisa Punya Rumah Sebelum Usia 30"
 date: 2025-12-03T23:20:20.191Z
 draft: false
-image: "images/strategi-jitu-mengatur-gaji-5-juta-agar-bisa-punya-rumah-sebelum-usia-30.png"
+thumbnail: "/images/strategi-jitu-mengatur-gaji-5-juta-agar-bisa-punya-rumah-sebelum-usia-30.png"
 tags: ["Keuangan Pribadi","Investasi Properti","Tips Menabung","Perencanaan Keuangan","Generasi Milenial"]
 ---
 

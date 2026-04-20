@@ -2,7 +2,7 @@
 title: "Rahasia Bebas Finansial Sebelum Usia 40: Panduan Strategi Investasi Cerdas bagi Pemula"
 date: 2025-05-22T09:45:19.034Z
 draft: false
-image: "images/rahasia-bebas-finansial-sebelum-usia-40-panduan-strategi-investasi-cerdas-bagi-pemula.png"
+thumbnail: "/images/rahasia-bebas-finansial-sebelum-usia-40-panduan-strategi-investasi-cerdas-bagi-pemula.png"
 tags: ["Keuangan","Investasi","Bebas Finansial","Perencanaan Keuangan","Tips Ekonomi"]
 ---
 

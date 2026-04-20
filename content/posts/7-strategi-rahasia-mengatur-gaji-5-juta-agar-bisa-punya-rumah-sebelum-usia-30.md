@@ -2,7 +2,7 @@
 title: "7 Strategi Rahasia Mengatur Gaji 5 Juta Agar Bisa Punya Rumah Sebelum Usia 30"
 date: 2025-03-30T19:56:27.962Z
 draft: false
-image: "images/7-strategi-rahasia-mengatur-gaji-5-juta-agar-bisa-punya-rumah-sebelum-usia-30.png"
+thumbnail: "/images/7-strategi-rahasia-mengatur-gaji-5-juta-agar-bisa-punya-rumah-sebelum-usia-30.png"
 tags: ["Tips Keuangan","Investasi Properti","Manajemen Gaji","Perencanaan Keuangan","Finansial Millennial"]
 ---
 

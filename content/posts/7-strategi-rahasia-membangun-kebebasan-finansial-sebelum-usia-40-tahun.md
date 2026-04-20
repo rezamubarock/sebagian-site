@@ -2,7 +2,7 @@
 title: "7 Strategi Rahasia Membangun Kebebasan Finansial Sebelum Usia 40 Tahun"
 date: 2025-05-23T12:38:15.680Z
 draft: false
-image: "images/7-strategi-rahasia-membangun-kebebasan-finansial-sebelum-usia-40-tahun.png"
+thumbnail: "/images/7-strategi-rahasia-membangun-kebebasan-finansial-sebelum-usia-40-tahun.png"
 tags: ["keuangan","investasi","kebebasan finansial","tips keuangan","perencanaan keuangan"]
 ---
 

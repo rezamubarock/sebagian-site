@@ -2,7 +2,7 @@
 title: "Rahasia Financial Freedom: Cara Cerdas Mengelola Gaji Kecil Menjadi Aset Miliaran"
 date: 2026-03-26T22:09:21.096Z
 draft: false
-image: "images/rahasia-financial-freedom-cara-cerdas-mengelola-gaji-kecil-menjadi-aset-miliaran.png"
+thumbnail: "/images/rahasia-financial-freedom-cara-cerdas-mengelola-gaji-kecil-menjadi-aset-miliaran.png"
 tags: ["Keuangan Pribadi","Investasi","Tips Menabung","Financial Freedom","Manajemen Keuangan"]
 ---
 

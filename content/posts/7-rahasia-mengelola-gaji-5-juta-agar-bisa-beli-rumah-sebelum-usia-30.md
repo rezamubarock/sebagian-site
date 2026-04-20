@@ -2,7 +2,7 @@
 title: "7 Rahasia Mengelola Gaji 5 Juta Agar Bisa Beli Rumah Sebelum Usia 30"
 date: 2025-05-25T03:54:30.512Z
 draft: false
-image: "images/7-rahasia-mengelola-gaji-5-juta-agar-bisa-beli-rumah-sebelum-usia-30.png"
+thumbnail: "/images/7-rahasia-mengelola-gaji-5-juta-agar-bisa-beli-rumah-sebelum-usia-30.png"
 tags: ["Keuangan Pribadi","Tips Investasi","Manajemen Gaji","Perencanaan Keuangan","Properti"]
 ---
 

@@ -2,7 +2,7 @@
 title: "7 Langkah Jenius Mengatur Keuangan Pribadi Agar Bebas Utang dan Cepat Kaya"
 date: 2025-07-23T19:30:27.924Z
 draft: false
-image: "images/7-langkah-jenius-mengatur-keuangan-pribadi-agar-bebas-utang-dan-cepat-kaya.png"
+thumbnail: "/images/7-langkah-jenius-mengatur-keuangan-pribadi-agar-bebas-utang-dan-cepat-kaya.png"
 tags: ["Keuangan","Investasi","Tips Menabung","Perencanaan Keuangan","Bebas Finansial"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Strategi Jitu Bebas Utang dan Mencapai Kebebasan Finansial Sebelum Usia 30"
 date: 2025-07-29T12:34:28.130Z
 draft: false
-image: "images/strategi-jitu-bebas-utang-dan-mencapai-kebebasan-finansial-sebelum-usia-30.png"
+thumbnail: "/images/strategi-jitu-bebas-utang-dan-mencapai-kebebasan-finansial-sebelum-usia-30.png"
 tags: ["Keuangan","Investasi","Tips Menabung","Kebebasan Finansial","Perencanaan Keuangan"]
 ---
 

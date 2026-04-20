@@ -2,7 +2,7 @@
 title: "7 Kebiasaan Finansial yang Diam-diam Menghancurkan Tabungan Anda di Usia 30-an"
 date: 2025-03-17T11:47:17.762Z
 draft: false
-image: "images/7-kebiasaan-finansial-yang-diam-diam-menghancurkan-tabungan-anda-di-usia-30-an.png"
+thumbnail: "/images/7-kebiasaan-finansial-yang-diam-diam-menghancurkan-tabungan-anda-di-usia-30-an.png"
 tags: ["Tips Keuangan","Perencanaan Keuangan","Tabungan","Investasi","Literasi Finansial"]
 ---
 

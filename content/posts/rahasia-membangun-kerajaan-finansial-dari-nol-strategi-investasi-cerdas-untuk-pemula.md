@@ -2,7 +2,7 @@
 title: "Rahasia Membangun Kerajaan Finansial dari Nol: Strategi Investasi Cerdas untuk Pemula"
 date: 2025-08-11T01:10:16.841Z
 draft: false
-image: "images/rahasia-membangun-kerajaan-finansial-dari-nol-strategi-investasi-cerdas-untuk-pemula.png"
+thumbnail: "/images/rahasia-membangun-kerajaan-finansial-dari-nol-strategi-investasi-cerdas-untuk-pemula.png"
 tags: ["Tips Keuangan","Investasi Pemula","Perencanaan Keuangan","Passive Income","Kebebasan Finansial"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Strategi Silent Wealth: Cara Mengumpulkan Kekayaan Tanpa Terlihat Mewah"
 date: 2026-04-13T13:30:46.957Z
 draft: false
-image: "images/strategi-silent-wealth-cara-mengumpulkan-kekayaan-tanpa-terlihat-mewah.png"
+thumbnail: "/images/strategi-silent-wealth-cara-mengumpulkan-kekayaan-tanpa-terlihat-mewah.png"
 tags: ["Keuangan Pribadi","Investasi","Tips Menabung","Financial Freedom","Gaya Hidup Hemat"]
 ---
 

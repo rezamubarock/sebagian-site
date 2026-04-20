@@ -2,7 +2,7 @@
 title: "Rahasia Membangun Kerajaan Finansial dari Nol: Strategi Bebas Finansial di Usia Muda"
 date: 2025-10-26T18:31:01.752Z
 draft: false
-image: "images/rahasia-membangun-kerajaan-finansial-dari-nol-strategi-bebas-finansial-di-usia-muda.png"
+thumbnail: "/images/rahasia-membangun-kerajaan-finansial-dari-nol-strategi-bebas-finansial-di-usia-muda.png"
 tags: ["Investasi","Keuangan Pribadi","Kebebasan Finansial","Manajemen Uang","Tips Keuangan"]
 ---
 

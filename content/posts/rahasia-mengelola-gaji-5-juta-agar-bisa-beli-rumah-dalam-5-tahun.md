@@ -2,7 +2,7 @@
 title: "Rahasia Mengelola Gaji 5 Juta agar Bisa Beli Rumah dalam 5 Tahun"
 date: 2025-05-29T16:36:41.588Z
 draft: false
-image: "images/rahasia-mengelola-gaji-5-juta-agar-bisa-beli-rumah-dalam-5-tahun.png"
+thumbnail: "/images/rahasia-mengelola-gaji-5-juta-agar-bisa-beli-rumah-dalam-5-tahun.png"
 tags: ["Keuangan Pribadi","Tips Menabung","Investasi Properti","Perencanaan Keuangan"]
 ---
 

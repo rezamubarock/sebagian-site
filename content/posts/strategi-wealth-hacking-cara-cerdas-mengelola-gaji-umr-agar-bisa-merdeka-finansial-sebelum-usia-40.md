@@ -2,7 +2,7 @@
 title: "Strategi 'Wealth Hacking': Cara Cerdas Mengelola Gaji UMR Agar Bisa Merdeka Finansial Sebelum Usia 40"
 date: 2026-04-10T14:30:16.651Z
 draft: false
-image: "images/strategi-wealth-hacking-cara-cerdas-mengelola-gaji-umr-agar-bisa-merdeka-finansial-sebelum-usia-40.png"
+thumbnail: "/images/strategi-wealth-hacking-cara-cerdas-mengelola-gaji-umr-agar-bisa-merdeka-finansial-sebelum-usia-40.png"
 tags: ["Keuangan Pribadi","Investasi","Tips Menabung","Merdeka Finansial","Manajemen Keuangan"]
 ---
 

@@ -2,7 +2,7 @@
 title: "7 Rahasia Mengelola Gaji Kecil Agar Tetap Bisa Investasi dan Jadi Miliarder"
 date: 2025-06-02T22:55:57.991Z
 draft: false
-image: "images/7-rahasia-mengelola-gaji-kecil-agar-tetap-bisa-investasi-dan-jadi-miliarder.png"
+thumbnail: "/images/7-rahasia-mengelola-gaji-kecil-agar-tetap-bisa-investasi-dan-jadi-miliarder.png"
 tags: ["Keuangan","Investasi","Tips Menabung","Perencanaan Keuangan","Bebas Finansial"]
 ---
 

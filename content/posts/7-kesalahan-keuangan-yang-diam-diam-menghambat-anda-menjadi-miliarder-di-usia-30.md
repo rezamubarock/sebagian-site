@@ -2,7 +2,7 @@
 title: "7 Kesalahan Keuangan yang Diam-diam Menghambat Anda Menjadi Miliarder di Usia 30"
 date: 2025-10-04T21:51:43.135Z
 draft: false
-image: "images/7-kesalahan-keuangan-yang-diam-diam-menghambat-anda-menjadi-miliarder-di-usia-30.png"
+thumbnail: "/images/7-kesalahan-keuangan-yang-diam-diam-menghambat-anda-menjadi-miliarder-di-usia-30.png"
 tags: ["Keuangan Pribadi","Investasi","Tips Menabung","Bebas Finansial"]
 ---
 

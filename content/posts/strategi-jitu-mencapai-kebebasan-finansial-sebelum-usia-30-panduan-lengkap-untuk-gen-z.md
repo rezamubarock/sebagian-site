@@ -2,7 +2,7 @@
 title: "Strategi Jitu Mencapai Kebebasan Finansial Sebelum Usia 30: Panduan Lengkap untuk Gen Z"
 date: 2025-05-31T22:20:32.861Z
 draft: false
-image: "images/strategi-jitu-mencapai-kebebasan-finansial-sebelum-usia-30-panduan-lengkap-untuk-gen-z.png"
+thumbnail: "/images/strategi-jitu-mencapai-kebebasan-finansial-sebelum-usia-30-panduan-lengkap-untuk-gen-z.png"
 tags: ["keuangan","investasi","kebebasan finansial","manajemen uang","tips sukses"]
 ---
 

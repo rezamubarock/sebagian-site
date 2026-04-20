@@ -2,7 +2,7 @@
 title: "7 Strategi Cerdas Mengelola Gaji 5 Juta Agar Bisa Punya Rumah dan Investasi Sebelum Usia 30"
 date: 2025-11-03T19:35:32.860Z
 draft: false
-image: "images/7-strategi-cerdas-mengelola-gaji-5-juta-agar-bisa-punya-rumah-dan-investasi-sebelum-usia-30.png"
+thumbnail: "/images/7-strategi-cerdas-mengelola-gaji-5-juta-agar-bisa-punya-rumah-dan-investasi-sebelum-usia-30.png"
 tags: ["Tips Keuangan","Investasi Pemula","Perencanaan Keuangan","Kebebasan Finansial"]
 ---
 

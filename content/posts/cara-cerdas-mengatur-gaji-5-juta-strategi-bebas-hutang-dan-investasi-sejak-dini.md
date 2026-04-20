@@ -2,7 +2,7 @@
 title: "Cara Cerdas Mengatur Gaji 5 Juta: Strategi Bebas Hutang dan Investasi Sejak Dini"
 date: 2025-09-16T05:43:30.395Z
 draft: false
-image: "images/cara-cerdas-mengatur-gaji-5-juta-strategi-bebas-hutang-dan-investasi-sejak-dini.png"
+thumbnail: "/images/cara-cerdas-mengatur-gaji-5-juta-strategi-bebas-hutang-dan-investasi-sejak-dini.png"
 tags: ["Keuangan Pribadi","Manajemen Gaji","Tips Investasi","Perencanaan Keuangan"]
 ---
 

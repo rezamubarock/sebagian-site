@@ -2,7 +2,7 @@
 title: "7 Strategi Rahasia Mengatur Gaji 5 Juta Agar Bisa Pensiun Dini di Usia 40"
 date: 2025-08-28T23:49:16.842Z
 draft: false
-image: "images/7-strategi-rahasia-mengatur-gaji-5-juta-agar-bisa-pensiun-dini-di-usia-40.png"
+thumbnail: "/images/7-strategi-rahasia-mengatur-gaji-5-juta-agar-bisa-pensiun-dini-di-usia-40.png"
 tags: ["Keuangan Pribadi","Perencanaan Keuangan","Investasi","Tips Menabung","Kebebasan Finansial"]
 ---
 

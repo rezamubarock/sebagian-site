@@ -2,7 +2,7 @@
 title: "Strategi Pensiun Dini di Usia 30: Cara Mengatur Keuangan Agar Bebas Finansial"
 date: 2025-10-31T20:47:41.809Z
 draft: false
-image: "images/strategi-pensiun-dini-di-usia-30-cara-mengatur-keuangan-agar-bebas-finansial.png"
+thumbnail: "/images/strategi-pensiun-dini-di-usia-30-cara-mengatur-keuangan-agar-bebas-finansial.png"
 tags: ["investasi","pensiun dini","keuangan pribadi","financial freedom","tips hemat"]
 ---
 

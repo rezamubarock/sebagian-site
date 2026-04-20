@@ -2,7 +2,7 @@
 title: "Rahasia Kebebasan Finansial: Cara Mengelola Gaji Kecil Agar Jadi Aset Miliaran di Masa Depan"
 date: 2025-07-01T14:42:35.390Z
 draft: false
-image: "images/rahasia-kebebasan-finansial-cara-mengelola-gaji-kecil-agar-jadi-aset-miliaran-di-masa-depan.png"
+thumbnail: "/images/rahasia-kebebasan-finansial-cara-mengelola-gaji-kecil-agar-jadi-aset-miliaran-di-masa-depan.png"
 tags: ["Keuangan Pribadi","Investasi","Tips Menabung","Financial Freedom"]
 ---
 
