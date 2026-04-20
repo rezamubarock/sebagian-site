@@ -7,11 +7,7 @@ slug: "cara-menabung-saat-anda-suka-makan-di-restoran-mahal"
 tags:
   - "keuangan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-saat-anda-suka-makan-di-restoran-mahal.jpg"
-  alt: "Cara Menabung Saat Anda Suka Makan di Restoran Mahal"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-saat-anda-suka-makan-di-restoran-mahal.jpg"
 ---
 
 # Cara Menabung Saat Anda Suka Makan di Restoran Mahal

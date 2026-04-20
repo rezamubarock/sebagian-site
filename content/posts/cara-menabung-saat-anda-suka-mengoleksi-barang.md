@@ -7,11 +7,7 @@ slug: "cara-menabung-saat-anda-suka-mengoleksi-barang"
 tags:
   - "keuangan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-saat-anda-suka-mengoleksi-barang.jpg"
-  alt: "Cara Menabung Saat Anda Suka Mengoleksi Barang"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-saat-anda-suka-mengoleksi-barang.jpg"
 ---
 
 # Cara Menabung Saat Anda Suka Mengoleksi Barang

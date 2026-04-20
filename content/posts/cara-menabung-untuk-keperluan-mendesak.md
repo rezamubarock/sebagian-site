@@ -7,11 +7,7 @@ slug: "cara-menabung-untuk-keperluan-mendesak"
 tags:
   - "keuangan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-untuk-keperluan-mendesak.jpg"
-  alt: "Cara Menabung untuk Keperluan Mendesak"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-untuk-keperluan-mendesak.jpg"
 ---
 
 # Cara Menabung untuk Keperluan Mendesak

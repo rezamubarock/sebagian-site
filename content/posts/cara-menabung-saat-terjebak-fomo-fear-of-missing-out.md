@@ -7,11 +7,7 @@ slug: "cara-menabung-saat-terjebak-fomo-fear-of-missing-out"
 tags:
   - "keuangan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-saat-terjebak-fomo-fear-of-missing-out.jpg"
-  alt: "Cara Menabung Saat Terjebak FOMO (Fear of Missing Out)"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-saat-terjebak-fomo-fear-of-missing-out.jpg"
 ---
 
 # Cara Menabung Saat Terjebak FOMO (Fear of Missing Out)

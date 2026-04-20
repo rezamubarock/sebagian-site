@@ -7,11 +7,7 @@ slug: "cara-menabung-saat-anda-suka-menikah"
 tags:
   - "keuangan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-saat-anda-suka-menikah.jpg"
-  alt: "Cara Menabung Saat Anda Suka Menikah"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-saat-anda-suka-menikah.jpg"
 ---
 
 # Cara Menabung Saat Anda Suka Menikah

@@ -7,11 +7,7 @@ slug: "cara-menabung-saat-makan-out-setiap-hari"
 tags:
   - "keuangan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-saat-makan-out-setiap-hari.jpg"
-  alt: "Cara Menabung Saat Makan Out Setiap Hari"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-saat-makan-out-setiap-hari.jpg"
 ---
 
 # Cara Menabung Saat Makan Out Setiap Hari

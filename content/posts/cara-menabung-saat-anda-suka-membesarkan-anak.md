@@ -7,11 +7,7 @@ slug: "cara-menabung-saat-anda-suka-membesarkan-anak"
 tags:
   - "keuangan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-saat-anda-suka-membesarkan-anak.jpg"
-  alt: "Cara Menabung Saat Anda Suka Membesarkan Anak"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-saat-anda-suka-membesarkan-anak.jpg"
 ---
 
 # Cara Menabung Saat Anda Suka Membesarkan Anak

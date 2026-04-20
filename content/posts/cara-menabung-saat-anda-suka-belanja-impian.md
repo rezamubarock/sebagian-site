@@ -7,11 +7,7 @@ slug: "cara-menabung-saat-anda-suka-belanja-impian"
 tags:
   - "keuangan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-saat-anda-suka-belanja-impian.jpg"
-  alt: "Cara Menabung Saat Anda Suka Belanja Impian"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-saat-anda-suka-belanja-impian.jpg"
 ---
 
 # Cara Menabung Saat Anda Suka Belanja Impian

@@ -8,11 +8,7 @@ tags:
   - "keuangan"
   - "penghasilan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-saat-anda-belum-punya-penghasilan-tetap.jpg"
-  alt: "Cara Menabung Saat Anda Belum Punya Penghasilan Tetap"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-saat-anda-belum-punya-penghasilan-tetap.jpg"
 ---
 
 # Cara Menabung Saat Anda Belum Punya Penghasilan Tetap

@@ -7,11 +7,7 @@ slug: "cara-menabung-saat-langganan-streaming-film"
 tags:
   - "keuangan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-saat-langganan-streaming-film.jpg"
-  alt: "Cara Menabung Saat Langganan Streaming Film"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-saat-langganan-streaming-film.jpg"
 ---
 
 # Cara Menabung Saat Langganan Streaming Film

@@ -8,11 +8,7 @@ tags:
   - "keuangan"
   - "tabungan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/rencanakan-tabungan-bulanan-dengan-metode-503020.jpg"
-  alt: "Rencanakan Tabungan Bulanan dengan Metode 50/30/20"
-  relative: false
-  hidden: false
+thumbnail: "/images/rencanakan-tabungan-bulanan-dengan-metode-503020.jpg"
 ---
 
 # Rencanakan Tabungan Bulanan dengan Metode 50/30/20

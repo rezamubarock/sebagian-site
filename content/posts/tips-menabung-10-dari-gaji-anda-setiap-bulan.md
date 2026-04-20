@@ -8,11 +8,7 @@ tags:
   - "keuangan"
   - "gaji"
 author: "Tim Sebagian"
-cover:
-  image: "/images/tips-menabung-10-dari-gaji-anda-setiap-bulan.jpg"
-  alt: "Tips Menabung 10% dari Gaji Anda Setiap Bulan"
-  relative: false
-  hidden: false
+thumbnail: "/images/tips-menabung-10-dari-gaji-anda-setiap-bulan.jpg"
 ---
 
 # Tips Menabung 10% dari Gaji Anda Setiap Bulan

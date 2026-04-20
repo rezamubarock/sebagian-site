@@ -8,11 +8,7 @@ tags:
   - "keuangan"
   - "gaji"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-otomatis-dari-gaji-anda.jpg"
-  alt: "Cara Menabung Otomatis dari Gaji Anda"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-otomatis-dari-gaji-anda.jpg"
 ---
 
 # Cara Menabung Otomatis dari Gaji Anda

@@ -7,11 +7,7 @@ slug: "cara-menabung-saat-rutinitas-hangat-minum-kopi-di-cafe"
 tags:
   - "keuangan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-saat-rutinitas-hangat-minum-kopi-di-cafe.jpg"
-  alt: "Cara Menabung Saat Rutinitas Hangat Minum Kopi di Cafe"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-saat-rutinitas-hangat-minum-kopi-di-cafe.jpg"
 ---
 
 # Cara Menabung Saat Rutinitas Hangat Minum Kopi di Cafe

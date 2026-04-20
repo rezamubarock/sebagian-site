@@ -7,11 +7,7 @@ slug: "cara-menabung-untuk-uang-minta-jaman-tua-umur"
 tags:
   - "keuangan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-untuk-uang-minta-jaman-tua-umur.jpg"
-  alt: "Cara Menabung untuk Uang Minta Jaman Tua (Umur)"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-untuk-uang-minta-jaman-tua-umur.jpg"
 ---
 
 # Cara Menabung untuk Uang Minta Jaman Tua (Umur)

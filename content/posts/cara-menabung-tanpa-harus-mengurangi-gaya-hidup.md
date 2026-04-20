@@ -7,11 +7,7 @@ slug: "cara-menabung-tanpa-harus-mengurangi-gaya-hidup"
 tags:
   - "keuangan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-tanpa-harus-mengurangi-gaya-hidup.jpg"
-  alt: "Cara Menabung Tanpa Harus Mengurangi Gaya Hidup"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-tanpa-harus-mengurangi-gaya-hidup.jpg"
 ---
 
 # Cara Menabung Tanpa Harus Mengurangi Gaya Hidup

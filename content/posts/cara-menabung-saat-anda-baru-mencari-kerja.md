@@ -7,11 +7,7 @@ slug: "cara-menabung-saat-anda-baru-mencari-kerja"
 tags:
   - "keuangan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-saat-anda-baru-mencari-kerja.jpg"
-  alt: "Cara Menabung Saat Anda Baru Mencari Kerja"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-saat-anda-baru-mencari-kerja.jpg"
 ---
 
 # Cara Menabung Saat Anda Baru Mencari Kerja

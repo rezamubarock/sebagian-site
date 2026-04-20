@@ -8,11 +8,7 @@ tags:
   - "keuangan"
   - "gaji"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-500-ribu-per-bulan-meski-gaji-umr.jpg"
-  alt: "Cara Menabung 500 Ribu Per Bulan Meski Gaji UMR"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-500-ribu-per-bulan-meski-gaji-umr.jpg"
 ---
 
 # Cara Menabung 500 Ribu Per Bulan Meski Gaji UMR

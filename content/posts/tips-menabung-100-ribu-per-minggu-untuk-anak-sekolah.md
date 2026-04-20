@@ -7,11 +7,7 @@ slug: "tips-menabung-100-ribu-per-minggu-untuk-anak-sekolah"
 tags:
   - "keuangan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/tips-menabung-100-ribu-per-minggu-untuk-anak-sekolah.jpg"
-  alt: "Tips Menabung 100 Ribu Per Minggu untuk Anak Sekolah"
-  relative: false
-  hidden: false
+thumbnail: "/images/tips-menabung-100-ribu-per-minggu-untuk-anak-sekolah.jpg"
 ---
 
 # Tips Menabung 100 Ribu Per Minggu untuk Anak Sekolah

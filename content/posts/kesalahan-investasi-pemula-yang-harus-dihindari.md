@@ -8,11 +8,7 @@ tags:
   - "keuangan"
   - "investasi"
 author: "Tim Sebagian"
-cover:
-  image: "/images/kesalahan-investasi-pemula-yang-harus-dihindari.jpg"
-  alt: "Kesalahan Investasi Pemula yang Harus Dihindari"
-  relative: false
-  hidden: false
+thumbnail: "/images/kesalahan-investasi-pemula-yang-harus-dihindari.jpg"
 ---
 
 # Kesalahan Investasi Pemula yang Harus Dihindari

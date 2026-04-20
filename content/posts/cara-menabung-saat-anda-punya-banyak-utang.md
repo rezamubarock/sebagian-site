@@ -8,11 +8,7 @@ tags:
   - "keuangan"
   - "utang"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-saat-anda-punya-banyak-utang.jpg"
-  alt: "Cara Menabung Saat Anda Punya Banyak Utang"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-saat-anda-punya-banyak-utang.jpg"
 ---
 
 # Cara Menabung Saat Anda Punya Banyak Utang

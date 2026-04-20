@@ -7,11 +7,7 @@ slug: "cara-menabung-efisien-dengan-aturan-2870"
 tags:
   - "keuangan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-efisien-dengan-aturan-2870.jpg"
-  alt: "Cara Menabung Efisien dengan Aturan 28/70"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-efisien-dengan-aturan-2870.jpg"
 ---
 
 # Cara Menabung Efisien dengan Aturan 28/70

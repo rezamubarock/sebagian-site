@@ -8,11 +8,7 @@ tags:
   - "keuangan"
   - "penghasilan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-saat-penghasilan-tidak-stabil.jpg"
-  alt: "Cara Menabung Saat Penghasilan Tidak Stabil"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-saat-penghasilan-tidak-stabil.jpg"
 ---
 
 # Cara Menabung Saat Penghasilan Tidak Stabil

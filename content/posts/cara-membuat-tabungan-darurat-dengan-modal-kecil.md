@@ -8,11 +8,7 @@ tags:
   - "keuangan"
   - "tabungan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-membuat-tabungan-darurat-dengan-modal-kecil.jpg"
-  alt: "Cara Membuat Tabungan Darurat dengan Modal Kecil"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-membuat-tabungan-darurat-dengan-modal-kecil.jpg"
 ---
 
 # Cara Membuat Tabungan Darurat dengan Modal Kecil

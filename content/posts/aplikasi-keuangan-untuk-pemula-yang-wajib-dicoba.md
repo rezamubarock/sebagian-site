@@ -7,11 +7,7 @@ slug: "aplikasi-keuangan-untuk-pemula-yang-wajib-dicoba"
 tags:
   - "keuangan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/aplikasi-keuangan-untuk-pemula-yang-wajib-dicoba.jpg"
-  alt: "Aplikasi Keuangan untuk Pemula yang Wajib Dicoba"
-  relative: false
-  hidden: false
+thumbnail: "/images/aplikasi-keuangan-untuk-pemula-yang-wajib-dicoba.jpg"
 ---
 
 # Aplikasi Keuangan untuk Pemula yang Wajib Dicoba

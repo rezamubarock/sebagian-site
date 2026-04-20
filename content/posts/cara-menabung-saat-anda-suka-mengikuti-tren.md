@@ -7,11 +7,7 @@ slug: "cara-menabung-saat-anda-suka-mengikuti-tren"
 tags:
   - "keuangan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-saat-anda-suka-mengikuti-tren.jpg"
-  alt: "Cara Menabung Saat Anda Suka Mengikuti Tren"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-saat-anda-suka-mengikuti-tren.jpg"
 ---
 
 # Cara Menabung Saat Anda Suka Mengikuti Tren

@@ -7,11 +7,7 @@ slug: "cara-menabung-untuk-dp-rumah-pertama-panduan-lengkap"
 tags:
   - "keuangan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-untuk-dp-rumah-pertama-panduan-lengkap.jpg"
-  alt: "Cara Menabung untuk DP Rumah Pertama: Panduan Lengkap"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-untuk-dp-rumah-pertama-panduan-lengkap.jpg"
 ---
 
 # Cara Menabung untuk DP Rumah Pertama: Panduan Lengkap

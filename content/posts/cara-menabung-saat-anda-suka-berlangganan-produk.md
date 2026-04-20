@@ -7,11 +7,7 @@ slug: "cara-menabung-saat-anda-suka-berlangganan-produk"
 tags:
   - "keuangan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-saat-anda-suka-berlangganan-produk.jpg"
-  alt: "Cara Menabung Saat Anda Suka Berlangganan Produk"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-saat-anda-suka-berlangganan-produk.jpg"
 ---
 
 # Cara Menabung Saat Anda Suka Berlangganan Produk

@@ -8,11 +8,7 @@ tags:
   - "keuangan"
   - "investasi"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-saat-anda-suka-berinvestasi-dalam-crypto.jpg"
-  alt: "Cara Menabung Saat Anda Suka Berinvestasi dalam Crypto"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-saat-anda-suka-berinvestasi-dalam-crypto.jpg"
 ---
 
 # Cara Menabung Saat Anda Suka Berinvestasi dalam Crypto

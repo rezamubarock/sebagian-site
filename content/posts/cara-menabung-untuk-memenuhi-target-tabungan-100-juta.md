@@ -8,11 +8,7 @@ tags:
   - "keuangan"
   - "tabungan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-untuk-memenuhi-target-tabungan-100-juta.jpg"
-  alt: "Cara Menabung untuk Memenuhi Target Tabungan 100 Juta"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-untuk-memenuhi-target-tabungan-100-juta.jpg"
 ---
 
 # Cara Menabung untuk Memenuhi Target Tabungan 100 Juta

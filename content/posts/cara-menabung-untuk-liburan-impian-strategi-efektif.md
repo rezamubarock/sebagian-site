@@ -7,11 +7,7 @@ slug: "cara-menabung-untuk-liburan-impian-strategi-efektif"
 tags:
   - "keuangan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-untuk-liburan-impian-strategi-efektif.jpg"
-  alt: "Cara Menabung untuk Liburan Impian: Strategi Efektif"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-untuk-liburan-impian-strategi-efektif.jpg"
 ---
 
 # Cara Menabung untuk Liburan Impian: Strategi Efektif

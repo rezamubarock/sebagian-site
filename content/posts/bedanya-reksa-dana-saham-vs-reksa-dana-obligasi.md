@@ -9,11 +9,7 @@ tags:
   - "saham"
   - "reksa dana"
 author: "Tim Sebagian"
-cover:
-  image: "/images/bedanya-reksa-dana-saham-vs-reksa-dana-obligasi.jpg"
-  alt: "Bedanya Reksa Dana Saham vs Reksa Dana Obligasi"
-  relative: false
-  hidden: false
+thumbnail: "/images/bedanya-reksa-dana-saham-vs-reksa-dana-obligasi.jpg"
 ---
 
 # Bedanya Reksa Dana Saham vs Reksa Dana Obligasi

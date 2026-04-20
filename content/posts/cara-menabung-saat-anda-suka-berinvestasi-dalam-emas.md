@@ -9,11 +9,7 @@ tags:
   - "investasi"
   - "emas"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-saat-anda-suka-berinvestasi-dalam-emas.jpg"
-  alt: "Cara Menabung Saat Anda Suka Berinvestasi dalam Emas"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-saat-anda-suka-berinvestasi-dalam-emas.jpg"
 ---
 
 # Cara Menabung Saat Anda Suka Berinvestasi dalam Emas

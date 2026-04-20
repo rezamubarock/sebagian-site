@@ -8,11 +8,7 @@ tags:
   - "keuangan"
   - "investasi"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-saat-anda-suka-berinvestasi-dalam-serta-merta.jpg"
-  alt: "Cara Menabung Saat Anda Suka Berinvestasi dalam Serta Merta"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-saat-anda-suka-berinvestasi-dalam-serta-merta.jpg"
 ---
 
 # Cara Menabung Saat Anda Suka Berinvestasi dalam Serta Merta

@@ -8,11 +8,7 @@ tags:
   - "keuangan"
   - "penghasilan"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-saat-penghasilan-naik-drastis.jpg"
-  alt: "Cara Menabung Saat Penghasilan Naik Drastis"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-saat-penghasilan-naik-drastis.jpg"
 ---
 
 # Cara Menabung Saat Penghasilan Naik Drastis

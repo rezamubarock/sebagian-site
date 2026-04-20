@@ -9,11 +9,7 @@ tags:
   - "investasi"
   - "bisnis"
 author: "Tim Sebagian"
-cover:
-  image: "/images/cara-menabung-saat-anda-suka-berinvestasi-dalam-bisnis.jpg"
-  alt: "Cara Menabung Saat Anda Suka Berinvestasi dalam Bisnis"
-  relative: false
-  hidden: false
+thumbnail: "/images/cara-menabung-saat-anda-suka-berinvestasi-dalam-bisnis.jpg"
 ---
 
 # Cara Menabung Saat Anda Suka Berinvestasi dalam Bisnis
